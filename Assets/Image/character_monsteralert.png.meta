@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: character_monsteralert_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1139
+        width: 984
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50edb3b73d435dd49922fed015150ec0
+      internalID: -609125114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_monsteralert_1
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1141
+        width: 885
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5400615d390bb4f9ac7c64c6237c83
+      internalID: 736883112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_monsteralert_2
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1142
+        width: 928
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b89ca3ff9840bc46963da8dbf1bfa5c
+      internalID: 1498596050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_monsteralert_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 386
+        width: 989
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68860448a805954cbb6cb4b02cfb0ec
+      internalID: -1689118851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +216,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_monsteralert_0: -609125114
+      character_monsteralert_1: 736883112
+      character_monsteralert_2: 1498596050
+      character_monsteralert_3: -1689118851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
